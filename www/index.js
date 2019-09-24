@@ -19,7 +19,7 @@ let t2 = 0;
 let roms = null;
 let requestID = null;
 
-fetch("/roms.json")
+fetch("roms.json")
     .then(response => {
         if(!response.ok) {
             throw new Error('Could not get roms.json file.');
