@@ -1,0 +1,153 @@
+{
+  "roms": [
+    {
+      "name": "15PUZZLE",
+      "location": "\\roms\\15PUZZLE",
+      "speed": 500,
+      "description": "Rearrange tiles."
+    },
+    {
+      "name": "BLINKY",
+      "location": "\\roms\\BLINKY",
+      "speed": 500,
+      "load_store_quirk": true,
+      "shift_quirk": true,
+      "description": "A/S - move left/right, 3/E - move up/down"
+    },
+    {
+      "name": "BLITZ",
+      "location": "\\roms\\BLITZ",
+      "speed": 500,
+      "wrapping": false,
+      "description": "5 - drop a bomb."
+    },
+    {
+      "name": "BRIX",
+      "location": "\\roms\\BRIX",
+      "speed": 500,
+      "description": "Q/E - move left/right."
+    },
+    {
+      "name": "CONNECT4",
+      "location": "\\roms\\CONNECT4",
+      "speed": 60,
+      "load_store_quirk": true,
+      "description": "This is a two player game. Try to stack coins. Q/E - move left/right, W - drop a coin. There is no winner detection"
+    },
+    {
+      "name": "GUESS",
+      "location": "\\roms\\GUESS",
+      "speed": 500,
+      "description": "Think of a number between 1 - 63. If that number is on the screen press W, otherwise any other key."
+    },
+    {
+      "name": "HIDDEN",
+      "location": "\\roms\\HIDDEN",
+      "speed": 100,
+      "load_store_quirk": true,
+      "description": "Find cards with the same symbol. Press 5 to show hightlighted card. 2/Q/E/S - move up/left/right/down."
+    },
+    {
+      "name": "INVADERS",
+      "location": "\\roms\\INVADERS",
+      "speed": 500,
+      "shift_quirk": true,
+      "description": "Q/E - move left/right. W - shoot."
+    },
+    {
+      "name": "KALEID",
+      "location": "\\roms\\KALEID",
+      "speed": 500,
+      "description": "Kaleidoscope."
+    },
+    {
+      "name": "MAZE",
+      "location": "\\roms\\MAZE",
+      "speed": 500,
+      "description": "Maze generator."
+    },
+    {
+      "name": "MERLIN",
+      "location": "\\roms\\MERLIN",
+      "speed": 500,
+      "description": "Remember in which order squares are lighted. Q/W/A/S - top-left/top-right/bottom-left/bottom-right."
+    },
+    {
+      "name": "MISSILE",
+      "location": "\\roms\\MISSILE",
+      "speed": 250,
+      "description": "S - shoot."
+    },
+    {
+      "name": "PONG",
+      "location": "\\roms\\PONG",
+      "speed": 500,
+      "description": "This is a two player game. Controls: 1/Q and 4/E."
+    },
+    {
+      "name": "PONG2",
+      "location": "\\roms\\PONG2",
+      "speed": 500,
+      "description": "This is a two player game. Controls: 1/Q and 4/E."
+    },
+    {
+      "name": "PUZZLE",
+      "location": "\\roms\\PUZZLE",
+      "speed": 500,
+      "description": "Rearrange tiles."
+    },
+    {
+      "name": "SYZYGY",
+      "location": "\\roms\\SYZYGY",
+      "speed": 500,
+      "load_store_quirk": true,
+      "description": "Grab food to get longer. A/S - left/right, 3/E - up/down. F - start. C - continue after game over."
+    },
+    {
+      "name": "TANK",
+      "location": "\\roms\\TANK",
+      "speed": 500,
+      "description": "Shoot targets. 2/S - down/up, Q/E - left/right, W - shoot."
+    },
+    {
+      "name": "TETRIS",
+      "location": "\\roms\\TETRIS",
+      "speed": 500,
+      "load_store_quirk": true,
+      "description": "Q - rotate, W/E - left/right, A - down."
+    },
+    {
+      "name": "TICTAC",
+      "location": "\\roms\\TICTAC",
+      "speed": 500,
+      "load_store_quirk": true,
+      "shift_quirk": true,
+      "description": "This is a two player game. Place noughts and crosses."
+    },
+    {
+      "name": "UFO",
+      "location": "\\roms\\UFO",
+      "speed": 500,
+      "description": "Q/W/E - shoot."
+    },
+    {
+      "name": "VBRIX",
+      "location": "\\roms\\VBRIX",
+      "speed": 500,
+      "shift_quirk": true,
+      "description": "Vertical brix. 1/Q - up/down, A - start."
+    },
+    {
+      "name": "VERS",
+      "location": "\\roms\\VERS",
+      "speed": 500,
+      "description": "Player 1: A/Z - up/down, 1/2 - left right. Player 2: 4/R - up/down, C/V - left right."
+    },
+    {
+      "name": "WIPEOFF",
+      "location": "\\roms\\WIPEOFF",
+      "speed": 500,
+      "description": "Q/E - left/right."
+    }
+  ]
+}

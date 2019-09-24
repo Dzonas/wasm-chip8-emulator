@@ -1,0 +1,10 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 10px solid darkred;
+}
+
+select {
+    display: block;
+    margin: auto;
+}
