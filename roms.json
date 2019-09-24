@@ -2,7 +2,7 @@
   "roms": [
     {
       "name": "15PUZZLE",
-      "location": "roms\\15PUZZLE",
+      "location": "roms/15PUZZLE",
       "speed": 500,
       "description": "Rearrange tiles."
     },
