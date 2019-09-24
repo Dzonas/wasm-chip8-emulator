@@ -1,3 +1,4 @@
+import './index.css';
 import { Chip8Emulator, keyMap } from "./chip8";
 
 const canvas = document.getElementById('canvas');

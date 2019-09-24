@@ -24,10 +24,12 @@
   "license": "MIT",
   "homepage": "https://github.com/Dzonas/wasm-chip8-emulator",
   "devDependencies": {
+    "copy-webpack-plugin": "^5.0.0",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
     "wasm-chip8-emulator": "file:../pkg",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.5",
-    "copy-webpack-plugin": "^5.0.0"
+    "webpack-dev-server": "^3.1.5"
   }
 }
